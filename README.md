@@ -2,7 +2,10 @@
 Here is an SCI paper supporting project file.  
 
 
-Electrospun membranes of PMMA and PMMA&PVDF-HFP were prepared at similar concentrations and voltages, and 35 SEM images were taken for each sample.  
+Electrospun membranes of PMMA and PMMA&PVDF-HFP were prepared at similar concentrations and voltages(15/18/21kv), and 35 SEM images were taken for each sample.  
+
+
+These pictures can be used to study random phenomena.
 
 
 Due to limited storage space, only thumbnail images of SEM (Scanning Electron Microscopy) are provided in this GitHub repository. 
